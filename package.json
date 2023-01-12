@@ -4,6 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@nestjs/cli": "^9.1.8"
+    "@nestjs/cli": "^9.1.8",
+    "graphql-tag": "^2.12.6",
+    "next-urql": "^4.0.2",
+    "react-is": "^18.2.0",
+    "urql": "^3.0.3"
+  },
+  "devDependencies": {
+    "graphql": "^16.6.0"
   }
 }
